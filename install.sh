@@ -2,8 +2,8 @@
 
 set -e
 
-gh_repo="papirus-icon-theme"
-gh_desc="Papirus icon theme"
+gh_repo="wow64-icon-theme"
+gh_desc="wow64 icon theme"
 
 cat <<- EOF
 
@@ -19,13 +19,13 @@ cat <<- EOF
 
 
   $gh_desc
-  https://github.com/PapirusDevelopmentTeam/$gh_repo
+  https://github.com/luisrguerra/$gh_repo
 
 
 EOF
 
 : "${DESTDIR:=/usr/share/icons}"
-: "${ICON_THEMES:=Papirus ePapirus ePapirus-Dark Papirus-Dark Papirus-Light}"
+: "${ICON_THEMES:=wow64 ewow64 ewow64-Dark wow64-Dark wow64-Light}"
 : "${TAG:=master}"
 : "${uninstall:=false}"
 
@@ -50,7 +50,7 @@ _sudo() {
 _download() {
     _msg "Getting the latest version from GitHub ..."
     wget -O "$temp_file" \
-        "https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/$TAG.tar.gz"
+        "https://github.com/luisrguerra/$gh_repo/archive/$TAG.tar.gz"
     _msg "Unpacking archive ..."
     tar -xzf "$temp_file" -C "$temp_dir"
 }
@@ -82,8 +82,8 @@ _install() {
     done
 
     # Try to restore the color of folders from a config
-    if command -v papirus-folders >/dev/null; then
-        papirus-folders -R || true
+    if command -v wow64-folders >/dev/null; then
+        wow64-folders -R || true
     fi
 }
 
