@@ -1,11 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <rect style="opacity:0.2" width="20" height="20" x="2" y="2.5" rx="6" ry="6"/>
- <rect style="fill:#e4e4e4" width="20" height="20" x="2" y="2" rx="6" ry="6"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 8,2 C 4.676,2 2,4.676 2,8 v 0.5 c 0,-3.324 2.676,-6 6,-6 h 8 c 3.324,0 6,2.676 6,6 V 8 C 22,4.676 19.324,2 16,2 Z"/>
- <path style="fill:#3084e9" d="M 8.5,6 A 2.5,2.5 0 0 0 6,8.5 2.5,2.5 0 0 0 8.5,11 h 7 V 6 Z"/>
- <path style="fill:#aeaeae" d="m 8.5,13 v 5 h 7 A 2.5,2.5 0 0 0 18,15.5 2.5,2.5 0 0 0 15.5,13 Z"/>
- <path style="opacity:0.1" d="M 8.5,6 A 2.5,2.5 0 0 0 6,8.5 2.5,2.5 0 0 0 6.01367,8.7578125 2.5,2.5 0 0 1 8.5,6.5 h 7 V 6 Z m 0,7 v 0.5 h 7 A 2.5,2.5 0 0 1 17.986328,15.742188 2.5,2.5 0 0 0 18,15.5 2.5,2.5 0 0 0 15.5,13 Z"/>
- <path style="opacity:0.2" d="M 15.5,6.5 A 2.5,2.5 0 0 0 13,9 2.5,2.5 0 0 0 15.5,11.5 2.5,2.5 0 0 0 18,9 2.5,2.5 0 0 0 15.5,6.5 Z m -7,7 A 2.5,2.5 0 0 0 6,16 2.5,2.5 0 0 0 8.5,18.5 2.5,2.5 0 0 0 11,16 2.5,2.5 0 0 0 8.5,13.5 Z"/>
- <circle style="fill:#ffffff" cx="15.5" cy="8.5" r="2.5"/>
- <circle style="fill:#ffffff" cx="8.5" cy="15.5" r="2.5"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="9.7297" y1="24.2703" x2="22.354" y2="11.646" gradientTransform="matrix(1,0,0,-1,0,34)">
+<stop offset="0.2961" style="stop-color:rgb(7.058824%,28.235294%,53.72549%);stop-opacity:1;"/>
+<stop offset="0.7933" style="stop-color:rgb(10.196078%,23.921569%,45.490196%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="10.3857" y1="23.6143" x2="20.2343" y2="13.7657" gradientTransform="matrix(1,0,0,-1,0,34)">
+<stop offset="0" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.242" style="stop-color:rgb(94.901961%,94.901961%,94.901961%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(80%,80%,80%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="1.1849" y1="32.7367" x2="27.1727" y2="6.749" gradientTransform="matrix(1,0,0,-1,0,34)">
+<stop offset="0.1453" style="stop-color:rgb(54.117647%,56.862745%,59.607843%);stop-opacity:1;"/>
+<stop offset="0.8939" style="stop-color:rgb(38.823529%,43.921569%,48.235294%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 25 16 C 25 20.96875 20.96875 25 16 25 C 11.03125 25 7 20.96875 7 16 C 7 11.03125 11.03125 7 16 7 C 20.96875 7 25 11.03125 25 16 Z M 25 16 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 22 16 C 22 19.3125 19.3125 22 16 22 C 12.6875 22 10 19.3125 10 16 C 10 12.6875 12.6875 10 16 10 C 19.3125 10 22 12.6875 22 16 Z M 22 16 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear2);" d="M 31.523438 12.320312 C 29.558594 12.304688 27.742188 11.257812 26.738281 9.570312 C 25.789062 7.953125 25.738281 5.960938 26.609375 4.296875 C 24.886719 2.785156 22.859375 1.664062 20.664062 1 C 19.617188 2.546875 17.867188 3.46875 16 3.464844 C 14.132812 3.46875 12.382812 2.546875 11.335938 1 C 9.140625 1.664062 7.113281 2.785156 5.390625 4.296875 C 6.261719 5.960938 6.210938 7.953125 5.261719 9.570312 C 4.257812 11.257812 2.441406 12.304688 0.476562 12.320312 C -0.0898438 14.507812 -0.152344 16.796875 0.289062 19.015625 C 2.324219 18.96875 4.226562 20.023438 5.261719 21.773438 C 6.320312 23.570312 6.25 25.820312 5.085938 27.554688 C 6.773438 29.109375 8.773438 30.285156 10.957031 31 C 11.90625 29.085938 13.859375 27.875 16 27.875 C 18.140625 27.875 20.09375 29.085938 21.042969 31 C 23.226562 30.285156 25.226562 29.109375 26.914062 27.554688 C 25.75 25.820312 25.679688 23.574219 26.738281 21.773438 C 27.773438 20.023438 29.675781 18.96875 31.710938 19.015625 C 32.148438 16.796875 32.085938 14.507812 31.523438 12.320312 Z M 16 24 C 11.582031 24 8 20.417969 8 16 C 8 11.582031 11.582031 8 16 8 C 20.417969 8 24 11.582031 24 16 C 24 20.417969 20.417969 24 16 24 Z M 16 24 "/>
+</g>
 </svg>
