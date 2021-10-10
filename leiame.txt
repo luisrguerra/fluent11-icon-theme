@@ -1,2 +1,0 @@
-Criar links simbolicos
-ln -s [Source_File_Path] [Symbolic_Link_Path]
