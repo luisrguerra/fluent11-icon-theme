@@ -1,10 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path fill="#e4e4e4" d="m14 15.143v-14.286c0-0.47471-0.365-0.857-0.818-0.857h-10.364c-0.4531 0-0.818 0.38229-0.818 0.85714v14.286c0 0.475 0.3649 0.857 0.8182 0.857h10.364c0.453 0 0.818-0.382 0.818-0.857z"/>
- <g fill="#4c4c4c" transform="translate(0 -.5)">
-  <path d="m4 4.5v1h8v-1h-8z"/>
-  <path d="m4 6.5v1h8v-1h-8z"/>
-  <path d="m4 8.5v1h8v-1h-8z"/>
-  <path d="m4 10.5v1h8v-1h-8z"/>
-  <path d="m4 12.5v1h8v-1h-8z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path fill="#607D8B" d="m2.75 1c-0.4172 0-0.75 0.3328-0.75 0.75v13.5c0 0.417 0.3328 0.75 0.75 0.75h10.5c0.418 0 0.75-0.332 0.75-0.75v-9.25l-4.125-0.875-0.875-4.125z"/>
+ <path fill="#7F99A6" d="m9 1v4.1667c0 0.4584 0.3749 0.8333 0.8333 0.8333h4.1667z"/>
+ <path style="fill:#ffffff" d="m 5,7 v 1 h 6 V 7 Z m 0,2 v 1 h 6 V 9 Z m 0,2 v 1 h 6 v -1 z m 0,2 v 1 h 3 v -1 z"/>
 </svg>
