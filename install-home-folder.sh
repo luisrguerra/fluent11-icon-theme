@@ -11,13 +11,31 @@ EOF
 
 echo Theme installation at user home folder
 
-echo Removing possible old theme files
 
-sudo rm -R ~/.icons/wow64
-sudo rm -R ~/.icons/wow64-Light
+if [ -e ~/.icons/wow64 ]
+then
+   echo wow64 installation found at home folder, uninstalling...
+   sudo rm -R ~/.icons/wow64
+fi
 
-sudo rm -R /usr/share/icons/wow64
-sudo rm -R /usr/share/icons/wow64-Light
+if [ -e ~/.icons/wow64-Light ]
+then
+   echo wow64-Light installation found at home folder, uninstalling...
+   sudo rm -R ~/.icons/wow64-Light
+fi
+
+if [ -e /usr/share/icons/wow64 ]
+then
+   echo wow64 installation found at system icon themes, uninstalling...
+   sudo rm -R /usr/share/icons/wow64
+fi
+
+if [ -e /usr/share/icons/wow64-Light ]
+then
+   echo wow64-Light installation found at system icon themes, uninstalling...
+   sudo rm -R /usr/share/icons/wow64-Light
+fi
+
 
 echo Installing theme at ~/.icons
 
