@@ -16,6 +16,9 @@ echo Removing possible old theme files
 sudo rm -R /usr/share/icons/wow64
 sudo rm -R /usr/share/icons/wow64-Light
 
+sudo rm -R ~/.icons/wow64
+sudo rm -R ~/.icons/wow64-Light
+
 echo Installing theme at /usr/share/icons
 
 sudo cp -fr wow64 /usr/share/icons
