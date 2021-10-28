@@ -9,10 +9,32 @@ cat << "EOF"
 
 EOF
 
-echo Removing theme files
+echo Uninstalling Wow64 icon theme
 
-sudo rm -R /usr/share/icons/wow64
-sudo rm -R /usr/share/icons/wow64-Light
+if [ -e ~/.icons/wow64 ]
+then
+   echo wow64 installation found at home folder, uninstalling...
+   sudo rm -R ~/.icons/wow64
+fi
 
-sudo rm -R ~/.icons/wow64
-sudo rm -R ~/.icons/wow64-Light
+if [ -e ~/.icons/wow64-Light ]
+then
+   echo wow64-Light installation found at home folder, uninstalling...
+   sudo rm -R ~/.icons/wow64-Light
+fi
+
+if [ -e /usr/share/icons/wow64 ]
+then
+   echo wow64 installation found at system icon themes, uninstalling...
+   sudo rm -R /usr/share/icons/wow64
+fi
+
+if [ -e /usr/share/icons/wow64-Light ]
+then
+   echo wow64-Light installation found at system icon themes, uninstalling...
+   sudo rm -R /usr/share/icons/wow64-Light
+fi
+
+
+
+
