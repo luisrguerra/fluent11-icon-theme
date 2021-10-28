@@ -1,3 +1,11 @@
+echo  ____
+echo |____\_________
+echo |              |
+echo |              |
+echo |    ______    | Wow64
+echo |   / ____ \   | Icon Theme
+echo |___|______|___|
+
 echo Theme installation
 
 echo removing possible old theme files
