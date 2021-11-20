@@ -4,4 +4,4 @@ Type=Application
 Terminal=true
 Exec=sh ./install.sh
 Name=Install Wow64 Icon Theme
-Icon=system-file-manager
+Icon=
