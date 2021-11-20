@@ -4,6 +4,8 @@
 
 ### Credit:
 
+Wow64 icon theme by Luis Guerra
+
 Papirus Icon Theme by Alexey Varfolomeev, Sergei Eremenko and creepertron95.
 
 Win11 Icon Theme by YEYUSHENGFAN258.
