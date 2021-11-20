@@ -13,7 +13,6 @@ EOF
 
 echo Theme installation
 
-
 if [ -e ~/.icons/wow64 ]
 then
    echo wow64 installation found at home folder, uninstalling...
