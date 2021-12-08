@@ -1,9 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect style="opacity:0.2" width="30" height="35" x="9" y="10" rx="2" ry="2"/>
- <rect style="fill:#8e8e8e" width="30" height="35" x="9" y="9" rx="2" ry="2"/>
- <rect style="fill:#9f9f9f" width="12" height="4" x="18" y="4"/>
- <rect style="opacity:0.2" width="36" height="8" x="6" y="7" rx="2" ry="2"/>
- <rect style="fill:#9f9f9f" width="36" height="8" x="6" y="6" rx="2" ry="2"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 8,6 C 6.892,6 6,6.892 6,8 V 9 C 6,7.892 6.892,7 8,7 h 32 c 1.108,0 2,0.892 2,2 V 8 C 42,6.892 41.108,6 40,6 Z"/>
- <path style="opacity:0.3;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round" d="M 32,21 V 37 M 24,21 V 37 M 16,21 V 37"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32">
+  <defs>
+    <clipPath id="b">
+      <path d="M0 0h32v32H0z"/>
+    </clipPath>
+    <clipPath id="c">
+      <path d="M0 0h32v32H0z"/>
+    </clipPath>
+    <clipPath id="d">
+      <path d="M0 0h32v32H0z"/>
+    </clipPath>
+    <clipPath id="e">
+      <path d="M0 0h32v32H0z"/>
+    </clipPath>
+    <clipPath id="f">
+      <path d="M0 0h32v32H0z"/>
+    </clipPath>
+    <mask id="h">
+      <g filter="url(#a)">
+        <path fill-opacity=".8" d="M0 0h32v32H0z"/>
+      </g>
+    </mask>
+    <mask id="j">
+      <g filter="url(#a)">
+        <path fill-opacity=".8" d="M0 0h32v32H0z"/>
+      </g>
+    </mask>
+    <mask id="l">
+      <g filter="url(#a)">
+        <path fill-opacity=".651" d="M0 0h32v32H0z"/>
+      </g>
+    </mask>
+    <mask id="n">
+      <g filter="url(#a)">
+        <path fill-opacity=".651" d="M0 0h32v32H0z"/>
+      </g>
+    </mask>
+    <mask id="p">
+      <g filter="url(#a)">
+        <path fill-opacity=".651" d="M0 0h32v32H0z"/>
+      </g>
+    </mask>
+    <g id="g" clip-path="url(#b)">
+      <path fill="#4d4d4d" d="M23 26H9l-2 2h18Zm0 0"/>
+    </g>
+    <g id="i" clip-path="url(#c)">
+      <path fill="#ccc" d="M7 28h18v2H7Zm0 0"/>
+    </g>
+    <g id="k" clip-path="url(#d)">
+      <path fill="#a8adaf" d="M23 26H9L7 2h18Zm0 0"/>
+    </g>
+    <g id="m" clip-path="url(#e)">
+      <path fill="#c7cccf" d="m25 28-2-2 2-24 3 3ZM7 28l2-2L7 2 4 5Zm0 0"/>
+    </g>
+    <g id="o" clip-path="url(#f)">
+      <path fill="#f5fbff" d="M25 28H7L4 5h24Zm0 0"/>
+    </g>
+    <filter id="a" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+      <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <use xlink:href="#g" mask="url(#h)"/>
+  <use xlink:href="#i" mask="url(#j)"/>
+  <use xlink:href="#k" mask="url(#l)"/>
+  <use xlink:href="#m" mask="url(#n)"/>
+  <use xlink:href="#o" mask="url(#p)"/>
+  <path fill="#0068ba" d="M11 19h3v3h-3Zm0 0"/>
+  <path fill="#0091e6" d="m14.4453 18.3516-.9297-4.1407-4.1406.9297.836.5313-1.5626 2.5195L10.9961 22l2.5976-4.1875Zm0 0"/>
+  <path fill="#0068ba" d="m18.8516 18.0352 1.582 2.5468L23 19l-1.6016-2.5508Zm0 0"/>
+  <path fill="#0091e6" d="M18.004 18.996 18 19v-1l-3 2.9922L18 24v-1.004l2.996.004 1.9923-3.996Zm0 0"/>
+  <path fill="#0068ba" d="m14.9102 13.1328 1.5898-2.543L14 9l-1.6328 2.543Zm0 0"/>
+  <path fill="#0091e6" d="m19.7422 11.6836-1.129-2.6563L14 9l2.1328 4.414-.9101.4376 4.0039 1.4062 1.4062-4Zm0 0"/>
 </svg>
