@@ -1,25 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect style="fill:#863ea7" width="32" height="40" x="-38" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2" d="M 19.127296,15.000302 A 1.1016411,1.1138871 0 0 0 18,16.113273 v 6.887973 6.884611 a 1.1016411,1.1138871 0 0 0 1.652269,0.965023 l 5.89814,-3.443146 5.898139,-3.443146 a 1.1016411,1.1138871 0 0 0 0,-1.930046 l -5.898139,-3.443146 -5.89814,-3.441465 a 1.1016411,1.1138871 0 0 0 -0.524973,-0.149629 z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 6,6 C 4.892,6 4,6.892 4,8 V 9 C 4,7.892 4.892,7 6,7 h 36 c 1.108,0 2,0.892 2,2 V 8 C 44,6.892 43.108,6 42,6 Z"/>
- <path style="opacity:0.2" d="m 4,36 v 1 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 C 4.892,38 4,37.108 4,36 Z"/>
- <rect style="opacity:0.3" width="4" height="4" x="6" y="11" rx=".899" ry=".871"/>
- <rect style="opacity:0.3" width="4" height="4" x="6" y="29" rx=".899" ry=".871"/>
- <rect style="opacity:0.3" width="4" height="4" x="6" y="23" rx=".899" ry=".871"/>
- <rect style="opacity:0.3" width="4" height="4" x="6" y="17" rx=".899" ry=".871"/>
- <rect style="opacity:0.3" width="4" height="4" x="38" y="11" rx=".899" ry=".871"/>
- <rect style="opacity:0.3" width="4" height="4" x="38" y="29" rx=".899" ry=".871"/>
- <rect style="opacity:0.3" width="4" height="4" x="38" y="23" rx=".899" ry=".871"/>
- <rect style="opacity:0.3" width="4" height="4" x="38" y="17" rx=".899" ry=".871"/>
- <path style="fill:#ffffff" d="M 19.127296,14.000302 A 1.1016411,1.1138871 0 0 0 18,15.113273 v 6.887973 6.884611 a 1.1016411,1.1138871 0 0 0 1.652269,0.965023 l 5.89814,-3.443146 5.898139,-3.443146 a 1.1016411,1.1138871 0 0 0 0,-1.930046 l -5.898139,-3.443146 -5.89814,-3.441465 a 1.1016411,1.1138871 0 0 0 -0.524973,-0.149629 z"/>
- <g transform="translate(0,-1)">
-  <path style="opacity:0.2" d="m 41.941406,21 a 2.0002,2.0002 0 0 0 -0.396484,0.05273 l -15,3.5 A 2.0002,2.0002 0 0 0 25,26.5 V 41 h 4 V 28.087891 l 11,-2.56836 V 38 h 4 V 23 a 2.0002,2.0002 0 0 0 -2.058594,-2 z"/>
-  <path style="fill:none;stroke:#ff5722;stroke-width:4;stroke-linejoin:round" d="M 27,40 V 25.5 L 42,22 v 15"/>
-  <circle style="opacity:0.2" cx="24" cy="41" r="5"/>
-  <circle style="fill:#ff9800" cx="24" cy="40" r="5"/>
-  <circle style="opacity:0.2" cx="39" cy="38" r="5"/>
-  <circle style="fill:#ff9800" cx="39" cy="37" r="5"/>
-  <path style="opacity:0.2;fill:#ffffff" d="m 41.941406,20 a 2.0002,2.0002 0 0 0 -0.396484,0.05273 l -15,3.5 A 2.0002,2.0002 0 0 0 25,25.5 v 1 a 2.0002,2.0002 0 0 1 1.544922,-1.947266 l 15,-3.5 A 2.0002,2.0002 0 0 1 41.941406,21 2.0002,2.0002 0 0 1 44,23 v -1 a 2.0002,2.0002 0 0 0 -2.058594,-2 z"/>
-  <path style="opacity:0.2;fill:#ffffff" d="m 39,32 a 5,5 0 0 0 -5,5 5,5 0 0 0 0.02734,0.515625 A 5,5 0 0 1 39,33 5,5 0 0 1 43.972656,37.484375 5,5 0 0 0 44,37 5,5 0 0 0 39,32 Z m -15,3 a 5,5 0 0 0 -5,5 5,5 0 0 0 0.02734,0.515625 A 5,5 0 0 1 24,36 5,5 0 0 1 28.972656,40.484375 5,5 0 0 0 29,40 5,5 0 0 0 24,35 Z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="1.3079" y1="4.1641" x2="8.9796" y2="11.8359" >
+<stop offset="0" style="stop-color:rgb(100%,72.54902%,0%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(90.588235%,28.235294%,33.72549%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 3 2.617188 L 3 13.382812 C 3 13.507812 3.066406 13.625 3.175781 13.6875 C 3.285156 13.75 3.421875 13.746094 3.527344 13.683594 L 12.5 8.300781 C 12.605469 8.238281 12.671875 8.125 12.671875 8 C 12.671875 7.878906 12.605469 7.765625 12.5 7.699219 L 3.527344 2.316406 C 3.421875 2.253906 3.285156 2.25 3.175781 2.3125 C 3.066406 2.375 3 2.492188 3 2.617188 Z M 3 2.617188 "/>
+</g>
 </svg>

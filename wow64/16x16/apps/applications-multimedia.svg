@@ -1,15 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#863ea7" width="12" height="16" x="-13" y="-16" rx=".75" ry=".8" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="opacity:0.3" width="2" height="2" x="13" y="3" rx=".45" ry=".436"/>
- <rect style="opacity:0.3" width="2" height="2" x="13" y="6" rx=".45" ry=".436"/>
- <rect style="opacity:0.3" width="2" height="2" x="13" y="9" rx=".45" ry=".436"/>
- <rect style="opacity:0.3" width="2" height="2" x="1" y="3" rx=".45" ry=".436"/>
- <rect style="opacity:0.3" width="2" height="2" x="1" y="6" rx=".45" ry=".436"/>
- <rect style="opacity:0.3" width="2" height="2" x="1" y="9" rx=".45" ry=".436"/>
- <path style="fill:#ffffff" d="M 6.4026054,4.0001133 A 0.39344328,0.41770765 0 0 0 6,4.4174774 V 7.0004672 9.582197 A 0.39344328,0.41770765 0 0 0 6.5900964,9.94408 L 8.6965752,8.6529001 10.803053,7.3617204 a 0.39344328,0.41770765 0 0 0 0,-0.7237672 L 8.6965752,5.3467735 6.5900964,4.0562241 a 0.39344328,0.41770765 0 0 0 -0.187491,-0.056111 z"/>
- <g>
-  <path style="fill:none;stroke:#ff5722;stroke-width:2;stroke-linejoin:round" d="M 8,14 V 8.3716667 L 14,7 v 6"/>
-  <circle style="fill:#ff9800" cx="7" cy="14" r="2"/>
-  <circle style="fill:#ff9800" cx="13" cy="13" r="2"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="1.3079" y1="4.1641" x2="8.9796" y2="11.8359" >
+<stop offset="0" style="stop-color:rgb(100%,72.54902%,0%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(90.588235%,28.235294%,33.72549%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 3 2.617188 L 3 13.382812 C 3 13.507812 3.066406 13.625 3.175781 13.6875 C 3.285156 13.75 3.421875 13.746094 3.527344 13.683594 L 12.5 8.300781 C 12.605469 8.238281 12.671875 8.125 12.671875 8 C 12.671875 7.878906 12.605469 7.765625 12.5 7.699219 L 3.527344 2.316406 C 3.421875 2.253906 3.285156 2.25 3.175781 2.3125 C 3.066406 2.375 3 2.492188 3 2.617188 Z M 3 2.617188 "/>
+</g>
 </svg>
