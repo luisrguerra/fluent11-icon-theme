@@ -13,3 +13,5 @@ Papirus Icon Theme by Alexey Varfolomeev, Sergei Eremenko and creepertron95.
 Win11 Icon Theme by YEYUSHENGFAN258.
 
 Paper Icon Theme by Sam Hewitt
+
+Cobalt Icon Theme by KuroeHanako
