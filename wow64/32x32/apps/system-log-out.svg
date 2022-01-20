@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
-<defs>
-<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="6.247" y1="5.247" x2="26.753" y2="25.753" >
-<stop offset="0" style="stop-color:rgb(28.627451%,28.235294%,30.196078%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(13.72549%,13.333333%,13.72549%);stop-opacity:1;"/>
-</linearGradient>
-<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="9.0024" y1="8.1354" x2="23.728" y2="22.861" >
-<stop offset="0" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
-<stop offset="1" style="stop-color:rgb(82.352941%,82.352941%,82.352941%);stop-opacity:1;"/>
-</linearGradient>
-</defs>
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 31 15.5 C 31 23.507812 24.507812 30 16.5 30 C 8.492188 30 2 23.507812 2 15.5 C 2 7.492188 8.492188 1 16.5 1 C 24.507812 1 31 7.492188 31 15.5 Z M 31 15.5 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 16.039062 5.011719 C 15.730469 5.023438 15.421875 5.050781 15.117188 5.09375 C 10.828125 5.65625 7.324219 8.796875 6.292969 12.996094 C 5.261719 17.199219 6.914062 21.601562 10.453125 24.089844 C 13.988281 26.578125 18.691406 26.640625 22.296875 24.25 C 22.976562 23.789062 23.160156 22.863281 22.703125 22.179688 C 22.25 21.492188 21.328125 21.300781 20.636719 21.75 C 17.503906 23.828125 13.316406 23.265625 10.84375 20.433594 C 8.371094 17.605469 8.375 13.378906 10.855469 10.554688 C 13.332031 7.726562 17.519531 7.175781 20.648438 9.257812 C 21.339844 9.707031 22.261719 9.515625 22.714844 8.832031 C 23.171875 8.148438 22.992188 7.222656 22.3125 6.761719 C 20.460938 5.523438 18.261719 4.910156 16.039062 5.011719 Z M 23 10.25 L 23 14 L 17.5 14 C 16.671875 14 16 14.671875 16 15.5 C 16 16.328125 16.671875 17 17.5 17 L 23 17 L 23 20.75 L 29.5 15.5 Z M 23 10.25 "/>
-</g>
-</svg>
+<svg height="32px" width="32px" id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"><defs><style>.cls-1{fill:url(#Gradiente_sem_nome_2);}.cls-2{fill:url(#Gradiente_sem_nome_47);}</style><linearGradient id="Gradiente_sem_nome_2" x1="6.247" y1="5.247" x2="26.753" y2="25.753" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2d2d30"/><stop offset="1" stop-color="#171617"/></linearGradient><linearGradient id="Gradiente_sem_nome_47" x1="9.0024" y1="8.1354" x2="23.728" y2="22.861" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#d2d2d2"/></linearGradient></defs><circle class="cls-1" cx="16.5" cy="15.5" r="14.5"/><path class="cls-2" d="M16.0391,5.01c-.3087.0135-.6158.0416-.9219.082a10.5,10.5,0,1,0,7.18,19.1582,1.5014,1.5014,0,0,0-1.66-2.502,7.4993,7.4993,0,1,1,.0117-12.49A1.5008,1.5008,0,0,0,22.3125,6.76,10.4525,10.4525,0,0,0,16.0391,5.01ZM23,10.25V14H17.5a1.5,1.5,0,0,0,0,3H23v3.75l6.5-5.25Z"/></svg>
