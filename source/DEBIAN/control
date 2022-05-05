@@ -1,0 +1,8 @@
+Source: wow64-icon-themes
+Priority: optional
+Maintainer: Luis Guerra
+Version: 0.5.2
+Essential: no
+Package: wow64-icon-themes
+Architecture: all
+Description: Wow64 icon themes fluent Design icon theme.
