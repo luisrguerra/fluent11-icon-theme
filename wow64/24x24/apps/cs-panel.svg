@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 48 48">
- <path fill="#1e88e5" d="m6 6c-1.108 0-2 0.892-2 2v30h40v-30c0-1.108-0.892-2-2-2h-36z"/>
- <path fill="#253951" d="m6 42c-1.108 0-2-0.892-2-2v-2h40v2c0 1.108-0.892 2-2 2z"/>
- <path fill="#fff" opacity=".1" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
- <path opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
- <path opacity=".2" d="m4 40v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
-</svg>
+<svg id="svg5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 8 8"><defs><style>.cls-1{fill:url(#Gradiente_sem_nome_80);}.cls-2{fill:url(#Gradiente_sem_nome_2);}</style><linearGradient id="Gradiente_sem_nome_80" x1="2.3271" y1="1.2323" x2="5.3949" y2="6.5458" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#37d4e1"/><stop offset="1" stop-color="#086cba"/></linearGradient><linearGradient id="Gradiente_sem_nome_2" x1="2.3013" y1="4.6987" x2="5.6987" y2="8.0962" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0b486e"/><stop offset="1" stop-color="#002b4f"/></linearGradient></defs><path class="cls-1" d="M1.355,2h5.29A.355.355,0,0,1,7,2.355V6A0,0,0,0,1,7,6H1A0,0,0,0,1,1,6V2.355A.355.355,0,0,1,1.355,2Z"/><path class="cls-2" d="M1,6H7A0,0,0,0,1,7,6v.65A.35.35,0,0,1,6.65,7H1.35A.35.35,0,0,1,1,6.65V6A0,0,0,0,1,1,6Z"/></svg>
