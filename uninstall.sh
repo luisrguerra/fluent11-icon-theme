@@ -5,36 +5,36 @@ cat << "EOF"
 |____\_________
 |              |
 |              |
-|    ______    | Wow64
+|    ______    | Fluent11
 |   / ____ \   | Icon Theme
 |___|______|___|
 
 EOF
 
-echo Uninstalling Wow64 icon theme
+echo Uninstalling Fluent11 icon theme
 
-if [ -e ~/.icons/wow64 ]
+if [ -e ~/.icons/fluent11 ]
 then
-   echo wow64 installation found at home folder, uninstalling...
-   sudo rm -R ~/.icons/wow64
+   echo fluent11 installation found at home folder, uninstalling...
+   sudo rm -R ~/.icons/fluent11
 fi
 
-if [ -e ~/.icons/wow64-Light ]
+if [ -e ~/.icons/fluent11-light ]
 then
-   echo wow64-Light installation found at home folder, uninstalling...
-   sudo rm -R ~/.icons/wow64-Light
+   echo fluent11-light installation found at home folder, uninstalling...
+   sudo rm -R ~/.icons/fluent11-light
 fi
 
-if [ -e /usr/share/icons/wow64 ]
+if [ -e /usr/share/icons/fluent11 ]
 then
-   echo wow64 installation found at system icon themes, uninstalling...
-   sudo rm -R /usr/share/icons/wow64
+   echo fluent11 installation found at system icon themes, uninstalling...
+   sudo rm -R /usr/share/icons/fluent11
 fi
 
-if [ -e /usr/share/icons/wow64-Light ]
+if [ -e /usr/share/icons/fluent11-light ]
 then
-   echo wow64-Light installation found at system icon themes, uninstalling...
-   sudo rm -R /usr/share/icons/wow64-Light
+   echo fluent11-light installation found at system icon themes, uninstalling...
+   sudo rm -R /usr/share/icons/fluent11-light
 fi
 
 
