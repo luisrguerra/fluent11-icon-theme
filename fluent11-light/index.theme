@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Wow64 - Light
-Comment=Wow64 Fluent design icon theme
+Name=Fluent11 - light
+Comment=Fluent design icon theme
 Inherits=breeze,hicolor
 
 Example=folder
