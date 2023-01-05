@@ -5,7 +5,7 @@ cat << "EOF"
 |____\_________
 |              |
 |              |
-|    ______    | Wow64
+|    ______    | Fluent11
 |   / ____ \   | Icon Theme
 |___|______|___|
 
@@ -14,37 +14,37 @@ EOF
 echo Theme installation at user home folder
 
 
-if [ -e ~/.icons/wow64 ]
+if [ -e ~/.icons/fluent11 ]
 then
-   echo wow64 installation found at home folder, uninstalling...
-   sudo rm -R ~/.icons/wow64
+   echo fluent11 installation found at home folder, uninstalling...
+   sudo rm -R ~/.icons/fluent11
 fi
 
-if [ -e ~/.icons/wow64-Light ]
+if [ -e ~/.icons/fluent11-light ]
 then
-   echo wow64-Light installation found at home folder, uninstalling...
-   sudo rm -R ~/.icons/wow64-Light
+   echo fluent11-light installation found at home folder, uninstalling...
+   sudo rm -R ~/.icons/fluent11-light
 fi
 
-if [ -e /usr/share/icons/wow64 ]
+if [ -e /usr/share/icons/fluent11 ]
 then
-   echo wow64 installation found at system icon themes, uninstalling...
-   sudo rm -R /usr/share/icons/wow64
+   echo fluent11 installation found at system icon themes, uninstalling...
+   sudo rm -R /usr/share/icons/fluent11
 fi
 
-if [ -e /usr/share/icons/wow64-Light ]
+if [ -e /usr/share/icons/fluent11-light ]
 then
-   echo wow64-Light installation found at system icon themes, uninstalling...
-   sudo rm -R /usr/share/icons/wow64-Light
+   echo fluent11-light installation found at system icon themes, uninstalling...
+   sudo rm -R /usr/share/icons/fluent11-light
 fi
 
 
 echo Installing theme at ~/.icons
 
-sudo cp -fr wow64 ~/.icons
-sudo cp -fr wow64-Light ~/.icons
+sudo cp -fr fluent11 ~/.icons
+sudo cp -fr fluent11-light ~/.icons
 
 echo Creating icon theme cache
 
-sudo gtk-update-icon-cache -q ~/.icons/wow64
-sudo gtk-update-icon-cache -q ~/.icons/wow64-Light
+sudo gtk-update-icon-cache -q ~/.icons/fluent11
+sudo gtk-update-icon-cache -q ~/.icons/fluent11-light
